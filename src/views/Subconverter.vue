@@ -479,6 +479,7 @@ export default {
         },
         customBackend: {
           "自定义后端【主用】": "https://blnjojvwpaqy.ap-southeast-1.clawcloudrun.com",
+          "自定义后端【备用】": "https://lad.chenxi11.dpdns.org",
         },
         backendOptions: [
           {value: "https://api.v1.mk"},
@@ -1407,5 +1408,6 @@ export default {
   }
 };
 </script>
+
 
 
